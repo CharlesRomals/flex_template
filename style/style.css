@@ -2,7 +2,7 @@
 
 @font-face {
     font-family: "SlimamifMedium";
-    src: url("../fonts/20451.ttf")
+    src: url("../fonts/20451.ttf");
 }
 
 * {
@@ -18,8 +18,8 @@ body {
 header {
     padding: 60px;
     text-align: center;
-    background-color: chocolate;
-    background-image: url(https://www.anypics.ru/download.php?file=201211/1440x900/anypics.ru-52051.jpg)
+/*    background-color: chocolate;*/
+    background-image: url(https://www.anypics.ru/download.php?file=201211/1440x900/anypics.ru-52051.jpg);
     color: aliceblue;
 }
 
